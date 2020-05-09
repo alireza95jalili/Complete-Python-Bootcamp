@@ -1,0 +1,51 @@
+Course Overview By Alireza Jalili
+
+1- Object And Data Structure Basics
+    - Numbers
+    - Strings
+    - Lists
+    - Dictionaries
+    - Tuples
+    - Files
+    - Sets
+    - Booleans
+
+2- Comparison Operators
+    - Basic Operators
+    - Chained Comparison Operators
+
+3- Python Statements
+    - if, elif, else
+    - For Loops
+    - While Loops
+    - range()
+    - List Comprehensions
+    - Assessments Test
+
+4- Method And Functions
+    - Methods
+    - Functions
+    - Lambda Expressions
+    - Nested Statements
+    - Scope
+
+## First MileStone Project: Create a Game in Python
+
+5 - Object Oriented Programming
+    - Object
+    - Classes
+    - Methods
+    - inheritance
+    - Special Methods
+
+6 - Errors And Expressions Handling
+    - Errors
+    - Exceptions
+    - try
+    - except
+    - finally
+
+## Secound MileStone Project : Create a More Complex Game!
+
+7 - Web Scraping With Selenium Library 
+8 - Graphical User Interfaces with Tk Library
